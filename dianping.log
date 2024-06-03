@@ -1,0 +1,49 @@
+2024-05-28 20:47:43,533 - 29134-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/saver/mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2024-05-28 20:49:38,725 - 29339-MainThread - /Users/ynbsztl/opt/anaconda3/lib/python3.9/site-packages/fontTools/ttLib/tables/_p_o_s_t.py[line:281] - WARNING: 2 extra bytes in post.stringData array
+2024-05-28 20:49:39,297 - 29339-MainThread - /Users/ynbsztl/opt/anaconda3/lib/python3.9/site-packages/fontTools/ttLib/tables/_p_o_s_t.py[line:281] - WARNING: 2 extra bytes in post.stringData array
+2024-05-28 20:49:39,706 - 29339-MainThread - /Users/ynbsztl/opt/anaconda3/lib/python3.9/site-packages/fontTools/ttLib/tables/_p_o_s_t.py[line:281] - WARNING: 2 extra bytes in post.stringData array
+2024-05-28 21:00:38,139 - 30314-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/main.py[line:49] - INFO: 爬取店铺id：详情
+2024-05-28 21:03:08,981 - 30650-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/main.py[line:49] - INFO: 爬取店铺id：k30YbaScPKFS0hfP详情
+2024-05-28 21:03:09,605 - 30650-MainThread - /Users/ynbsztl/opt/anaconda3/lib/python3.9/site-packages/fontTools/ttLib/tables/_p_o_s_t.py[line:281] - WARNING: 2 extra bytes in post.stringData array
+2024-05-28 21:05:26,789 - 31759-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-28 21:06:03,119 - 32178-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-28 21:07:27,460 - 32293-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-28 21:09:28,616 - 32610-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 12:58:17,415 - 47200-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 12:59:51,937 - 47424-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:03:39,589 - 47595-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:05:26,262 - 47690-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:10:43,630 - 47892-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:13:10,340 - 48037-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:16:20,215 - 48258-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:17:01,259 - 48308-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:18:36,108 - 48383-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 13:24:42,493 - 48587-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:27:12,233 - 74191-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:28:34,339 - 74672-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:30:21,307 - 75260-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:31:15,432 - 75587-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:31:26,291 - 75672-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:43:15,019 - 79541-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:43:41,894 - 79715-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:44:24,971 - 79982-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:44:40,077 - 80085-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 15:44:59,709 - 80217-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 16:04:35,012 - 86361-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 17:54:18,555 - 96380-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 18:11:35,195 - 1549-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 18:16:58,104 - 3052-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 18:20:26,994 - 4062-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 18:28:34,067 - 6177-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 20:19:02,245 - 37033-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 20:26:33,558 - 39178-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 20:27:40,057 - 39511-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-29 23:40:53,227 - 73430-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:32:08,979 - 89447-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:33:24,008 - 89766-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:35:39,613 - 90298-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:36:25,386 - 90526-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:37:25,305 - 90990-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:38:11,343 - 91233-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 10:38:53,081 - 91377-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2024-05-30 15:50:24,426 - 97935-MainThread - /Users/ynbsztl/Documents/Python/github_pub_repo/vscode/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
